@@ -8,6 +8,7 @@ export default () => (
         <div className={Style.aBox}>
             <a href="https://www.52beautys.com/" target="_blank">妹子图片</a>
             <a href="http://www.yumojingshi.com" target="_blank">抛光机</a>
+            <a href="https://www.51link.com/link-exchange?ruid=14086" target="_blank">交换友链</a>
         </div>
         </div>
     </div>
